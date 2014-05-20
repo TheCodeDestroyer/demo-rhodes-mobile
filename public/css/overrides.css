@@ -1,0 +1,7 @@
+.content > .table-view:first-child {
+	margin-top: 0;
+}
+
+.table-view {
+	margin-bottom: 0;
+}
